@@ -1,0 +1,139 @@
+.my-nav{
+  background-color: 	#383838 !important;
+ margin-bottom: 0;
+
+}
+
+
+.navbar-default .navbar-nav li:hover{
+  background-color: #f8f8f8;
+}
+
+
+#logo{
+  margin: 5px;
+  width:30px;
+}
+
+
+.my-jumbo{
+  background-image: url('../images/iphone-x-black.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* min-height: 350px; */
+  height: 90vh;
+  background-position: center top;
+
+
+
+}
+
+
+
+@media (min-width: 768px){
+  .navbar{
+    border-radius: 0px !important;
+  }
+}
+
+.navbar-default{
+  border-color: transparent !important;
+}
+
+.navbar-default .navbar-nav>li>a{
+  color:#fff;
+}
+
+.iphone-header{
+  color:#fff !important;
+  text-align: center !important;
+}
+
+
+.welcome-header{
+  color:#fff !important;
+  font-weight:400 !important;
+}
+
+
+.lead{
+  text-align: center !important;
+}
+
+.airpods-thumbnail{
+  background-color:	#F8F8F8 !important;
+}
+
+.iphone-thumbnail{
+  background-color:	#F8F8F8 !important;
+}
+
+.apple-watch-thumbnail{
+  background-color:	#F8F8F8 !important;
+}
+
+.thumbnail{
+  border: none;
+}
+
+
+.iphone-img{
+   height:301px !important;
+   width:300px;
+}
+
+.airpods-img{
+  height:300px;
+  width:300px;
+}
+
+
+.watch-img{
+  height:300px;
+  width:300px;
+}
+
+.apple-tv-background{
+  background-image: url('../images/apple-tv.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* min-height: 350px; */
+  height: 90vh;
+  background-position: center center;
+
+}
+.speaker-background{
+  background-image: url('../images/speaker.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* min-height: 350px; */
+  height: 90vh;
+  background-position: center center;
+}
+
+#my-carousel{
+  background-color: #fff;
+}
+
+.homepod-header{
+  color:#333 !important;
+  font-weight:400 !important;
+  text-align:left !important;
+}
+
+.homepod-text{
+  color:#333 !important;
+  font-weight:600 !important;
+  text-align:left !important;
+  font-size:35px;
+}
+
+
+
+
+
+.contacting{
+  text-align: center !important;
+  font-weight: 300;
+  font-size: 50px;
+}
